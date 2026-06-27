@@ -1,8 +1,8 @@
 <h2 align="center">Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 <p align="center">
 <samp>
-Hi there, I'm <a href="https://github.com/lyorei">Lyorei!</a> 🚀<br>
-A passionate developer who dived into the world of code driven by curiosity, self-taught along the way, and now elevating the journey through formal Computer Programming education.
+Hi there, I'm <a href="https://github.com/zephrisdev">Zephris!</a> 🚀<br>
+A passionate developer who built a digital world driven by curiosity. Self-taught at heart, now a Computer Programming graduate elevating the journey through real-world projects.
 </samp>
 </p>
 
